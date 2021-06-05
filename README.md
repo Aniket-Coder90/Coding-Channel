@@ -13,6 +13,8 @@ https://www.tutorialspoint.com/html/index.htm
 
 https://www.javatpoint.com/html-tutorial
 
+https://www.learn-html.org/
+
 https://www.codecademy.com/learn/learn-html
 
 https://www.htmldog.com/
@@ -46,6 +48,10 @@ https://www.investopedia.com/terms/h/html.asp
 https://hackr.io/tutorials/learn-html-5
 
 http://www.csun.edu/science/help/help_docs/html_tags.html
+
+https://www.tutorialrepublic.com/html-tutorial/
+
+https://learn.shayhowe.com/
 
 ### Color code site
 
