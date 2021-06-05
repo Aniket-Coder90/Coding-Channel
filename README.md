@@ -32,3 +32,20 @@ https://www.yourhtmlsource.com/starthere/whatishtml.html
 https://www.toptal.com/designers/htmlarrows/
 
 https://www.freecodecamp.org/news/html-basics-for-beginners/
+
+https://careerfoundry.com/en/tutorials/web-development-for-beginners/introduction-to-html/
+
+edureka.co/blog/what-is-html/
+
+https://www.udacity.com/course/intro-to-html-and-css--ud001
+
+https://www.geeksforgeeks.org/html-introduction/
+
+https://www.investopedia.com/terms/h/html.asp
+
+https://hackr.io/tutorials/learn-html-5
+
+
+### Color code site
+
+https://htmlcolorcodes.com/
